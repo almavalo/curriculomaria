@@ -49,7 +49,7 @@ const App = () => {
                     <Education 
                         data={data.education}
                     />
-                    <Certificates 
+                    <Certificates
                         data={data.certificates}
                     />
                 </Info>
